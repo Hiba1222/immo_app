@@ -2,6 +2,10 @@
 
 Une application immobilière moderne développée avec Flutter pour parcourir, rechercher et gérer des annonces de biens immobiliers.
 
+## 🎬 Vidéo de démonstration
+[![Démo Immo App]video.mp4]
+*Cliquez sur l'image pour voir la vidéo*
+
 ## 📱 À propos
 
 Immo App est une application mobile construite avec Flutter qui offre une plateforme complète pour la gestion de biens immobiliers. Que vous cherchiez à acheter, louer ou mettre en vente des propriétés, cette application propose une interface intuitive pour parcourir les annonces disponibles avec des informations détaillées et des images.
