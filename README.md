@@ -20,7 +20,7 @@ Immo App est une application mobile construite avec Flutter qui offre une platef
 ## 🏗️ Architecture
 
 L'application suit une architecture en couches basée sur le modèle C4, avec une séparation claire des responsabilités :
-
+![Image](https://github.com/Hiba1222/immo_app/conception C4.png)
 ### Niveau C4 - Code (Couche Services)
 **Composants métier**
 - **AdService** : Logique métier pour la validation, gestion d'état et orchestration des annonces
