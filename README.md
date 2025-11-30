@@ -3,7 +3,7 @@
 Une application immobilière moderne développée avec Flutter pour parcourir, rechercher et gérer des annonces de biens immobiliers.
 
 ## 🎬 Vidéo de démonstration
-[![Démo Immo App](video.mp4)]
+![Demo](demo.gif)
 *Cliquez sur l'image pour voir la vidéo*
 
 ## 📱 À propos
