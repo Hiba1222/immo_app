@@ -73,8 +73,8 @@ class LocationService {
     try {
       // Note: You'll need to get a free API key from Google Cloud Console
       const apiKey =
-          'AIzaSyBOZ4YdX399msLSnEkacCBUyHmHAHiO450'; // Replace with actual key
-      if (apiKey == 'AIzaSyBOZ4YdX399msLSnEkacCBUyHmHAHiO450') return null;
+          'TOKEN-CODE'; // Replace with actual key
+      if (apiKey == 'TOKEN-CODE') return null;
 
       String query = _buildQuery(address, city, postalCode, country);
       final encodedQuery = Uri.encodeComponent(query);
