@@ -41,7 +41,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBOZ4YdX399msLSnEkacCBUyHmHAHiO450"/>
+            android:value="TOKEN-CODE"/>
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_channel_id"
             android:value="messages_channel" />
